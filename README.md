@@ -14,6 +14,6 @@ The gang of bandits operating in the lawless area between the Boarwood Forest an
 
 The cruel knights of the kingdom, the oppressors of the weak.
 
-### Eagle Knights
+### Griffin Knights
 
 The noble knights of the kingdom, the protectors of the innocent and keepers of justice.
